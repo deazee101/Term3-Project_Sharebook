@@ -4,7 +4,7 @@ import SelectInput from './../commons/SelectInput';
 import TextArea from './../commons/TextArea';
 
 
-const RequestForm = ({ request, allBloods, onChange, onSave, loading, staticLists, errors }) => {
+const RequestForm = ({ request, onChange, onSave, loading, staticLists, errors }) => {
   return (
     <form className="container">
 
@@ -46,7 +46,7 @@ const RequestForm = ({ request, allBloods, onChange, onSave, loading, staticList
 
 
 
-      <input type="submit" className="btn btn-primary" value="Post Request" onClick={onSave}/>
+      <input type="submit" className="btn btn-primary" value="Donate" onClick={onSave}/>
     </form>
   )
 }
