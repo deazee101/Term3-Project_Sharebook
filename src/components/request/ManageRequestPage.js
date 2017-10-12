@@ -54,7 +54,7 @@ class ManageRequestPage extends React.Component{
       return;
     }
     this.props.actions.createRequest(this.state.request);
-    this.context.router.push('/requests');
+    this.context.router.push('/books');
   }
 
   render(){

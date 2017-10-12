@@ -1,3 +1,25 @@
+body {
+  background-image: url(https://cdn.aarp.net/content/dam/aarp/money/budgeting_savings/2016/04/1140-yeager-sell-your-used-books.imgcache.rev661df3f628ce819a8306ca96aa6bc36f.jpg);
+}
+.padding {
+  margin-top: 15%;
+  padding: 30px;
+  padding-left: 10%;
+  padding-right: 40%;
+  width: 60%;
+  background-color: #3434F1;
+  color: white;
+}
+
+.head-color {
+  color: white;
+}
+
+.listbg {
+  background-color: white;
+  padding: 30px;
+  border-radius: 25px;
+}
 .header{
   margin: 20px 5px 20px 5px;
 }

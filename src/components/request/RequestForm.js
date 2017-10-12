@@ -8,11 +8,12 @@ const RequestForm = ({ request, onChange, onSave, loading, staticLists, errors }
   return (
     <form className="container">
 
-      <h2>Medicine Request Form</h2>
+      <h2 className="head-color text-center">Book Donation Form</h2>
 
       <TextInput
         name="title"
         label="Title"
+        placeholder="Title"
         value={request.title}
         onChange={onChange}
         error={errors.title}
@@ -21,6 +22,7 @@ const RequestForm = ({ request, onChange, onSave, loading, staticLists, errors }
       <TextInput
         name="author"
         label="Author"
+        placeholder="Author"
         value={request.author}
         onChange={onChange}
         error={errors.author}
@@ -29,6 +31,7 @@ const RequestForm = ({ request, onChange, onSave, loading, staticLists, errors }
       <TextInput
         name="donor"
         label="Donor Name"
+        placeholder="Donor Name"
         rows={6}
         value={request.donor}
         onChange={onChange}
@@ -38,6 +41,7 @@ const RequestForm = ({ request, onChange, onSave, loading, staticLists, errors }
       <TextInput
         name="location"
         label="Location"
+        placeholder="Location"
         rows={6}
         value={request.location}
         onChange={onChange}
@@ -46,7 +50,7 @@ const RequestForm = ({ request, onChange, onSave, loading, staticLists, errors }
 
 
 
-      <input type="submit" className="btn btn-primary" value="Donate" onClick={onSave}/>
+      <input type="submit" className="btn btn-primary form-control" value="Donate" onClick={onSave}/>
     </form>
   )
 }
