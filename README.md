@@ -25,6 +25,7 @@
 
 - [Collaboration Tools and Techniques](#collaboration-tools-and-techniques)
      - [Slack](#slack)
+     - [Github](#github)
 
 
 ## PROJECT OVERVIEW
