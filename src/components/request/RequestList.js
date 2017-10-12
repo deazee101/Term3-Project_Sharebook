@@ -11,7 +11,7 @@ class RequestList extends React.Component{
 
   render() {
     return (
-      <div>
+      <div className="listbg">
         <h2>Book List</h2>
 
         <hr />

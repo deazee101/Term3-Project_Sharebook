@@ -3,7 +3,6 @@ import React from 'react';
 const TextForm = ({ name, label, onChange, placeholder, value, error }) => {
   return (
     <div className="form-group">
-      <label htmlFor={name}>{label}</label>
       <div className="field">
         <input
           type="text"
