@@ -40,9 +40,9 @@ class ManageRequestPage extends React.Component{
       errors.title = 'Name';
     }
 
-    if (this.state.request.bloodId.length <= 1) {
-      errors.bloodId = 'blood type';
-    }
+    // if (this.state.request.bloodId.length <= 1) {
+    //   errors.bloodId = 'blood type';
+    // }
 
     this.setState({ errors });
     return Object.keys(errors).length === 0;
@@ -61,7 +61,7 @@ class ManageRequestPage extends React.Component{
     return (
       <RequestForm
         request={this.state.request}
-        allBloods={this.props.bloods}
+        // allBloods={this.props.bloods}
         errors={this.state.errors}
         staticLists={this.props.staticLists}
         onChange={this.updateRequestState}
@@ -77,22 +77,22 @@ ManageRequestPage.contextTypes = {
 
 function mapStateToProps(state, ownProps) {
   const requestId = ownProps.params.id;
-  let request = { id: '', title: '', bloodId: '' };
+  let request = { id: '', title: ''};
 
   if (requestId) {
     request = state.requests.filter(obj => obj.id === requestId)[0];
   }
 
-  const bloods = state.bloods.map(blood => {
-    return {
-      value: blood.id,
-      text: blood.type + ' ' + blood.rh
-    }
-  });
+  // const bloods = state.bloods.map(blood => {
+  //   return {
+  //     value: blood.id,
+  //     text: blood.type + ' ' + blood.rh
+  //   }
+  // });
 
   return {
     request: request,
-    bloods,
+    // bloods,
     staticLists: state.staticLists,
     requests: state.requests
   }

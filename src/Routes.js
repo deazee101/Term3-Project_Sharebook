@@ -11,8 +11,8 @@ export default (
   <Route path='/' component={App}>
     <IndexRoute component={HomePage} />
     <Route path = 'about' component={AboutPage} />
-    <Route path = 'requests' component={RequestsPage} />
-    <Route path = 'request' component={ManageRequestPage} />
+    <Route path = 'books' component={RequestsPage} />
+    <Route path = 'new' component={ManageRequestPage} />
     <Route path = 'request/:id' component={ManageRequestPage} />
   </Route>
 )
