@@ -79,10 +79,12 @@
 ### ERD (Entity Relationship Diagram)
 ![screen shot 2017-10-10 at 5 41 40 pm](https://user-images.githubusercontent.com/26729817/31424184-7a7df0d0-ae8b-11e7-9528-c544c27fb819.png)
 
-
 ### Wireframe 
+![screen shot 2017-10-13 at 12 22 09 pm](https://user-images.githubusercontent.com/26729817/31531173-09831b06-b018-11e7-870a-7f01a22efe44.png)
+![screen shot 2017-10-13 at 12 22 28 pm](https://user-images.githubusercontent.com/26729817/31531175-0d0ca94a-b018-11e7-848c-f4e363008be9.png)
 
-AND TECHNIQUES
+
+COLLABORATION TOOLS AND TECHNIQUES
 
 ### Slack
 ![screen shot 2017-10-12 at 8 19 30 am](https://user-images.githubusercontent.com/26729817/31473327-48cdb3cc-af26-11e7-9205-bc7f3bf4d76c.png)
