@@ -33,6 +33,9 @@
 ## OUTPUT
 ![alt-text](img/book.gif)
 
+## MOBILE VERSION
+![alt-text](img/mobile.png)
+
 ## Landing Page
 ![alt-text](img/landingpage.png)
 
