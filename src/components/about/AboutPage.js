@@ -2,9 +2,10 @@ import React from 'react';
 import { Link } from 'react-router'
 
 class AboutPage extends React.Component {
-  
+
   render() {
     return (
+
       <div className='aboutPage container'>
        <p>Reading books is one of the best ways to learn. Books are everywhere 
 but its not always accessible to all people. Philippines, being a 
@@ -19,7 +20,7 @@ you are giving your books a second home since
  <br/>
  <p className="aboutbook">A book is a gift you can open again and again</p>
  <p className="aboutbook">-- Garrison Keillor </p>
-      </div>
+
     )
   }
 
