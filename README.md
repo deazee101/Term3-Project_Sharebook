@@ -84,7 +84,7 @@
 ![screen shot 2017-10-13 at 12 22 28 pm](https://user-images.githubusercontent.com/26729817/31531175-0d0ca94a-b018-11e7-848c-f4e363008be9.png)
 
 
-COLLABORATION TOOLS AND TECHNIQUES
+## COLLABORATION TOOLS AND TECHNIQUES
 
 ### Slack
 ![screen shot 2017-10-12 at 8 19 30 am](https://user-images.githubusercontent.com/26729817/31473327-48cdb3cc-af26-11e7-9205-bc7f3bf4d76c.png)
