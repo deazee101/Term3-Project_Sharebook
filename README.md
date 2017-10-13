@@ -31,19 +31,19 @@
   During the last term, we were tasked to make an app using React and Node that would help address the society's main concerns. We called our app SHAREBOOK, which stemmed from the word "share" and "book" because this app is all about sharing books that can still be used by other people. This features the ability to post books, specific genres, title, authors and number of pieces.
 
 ## OUTPUT
-![alt-text](book.gif)
+![alt-text](img/book.gif)
 
 ## Landing Page
-![alt-text](landingpage.png)
+![alt-text](img/landingpage.png)
 
 ## ABOUT PAGE
-![alt-text](about.png)
+![alt-text](img/about.png)
 
 ## BOOKLIST PAGE
-![alt-text](booklist.png)
+![alt-text](img/booklist.png)
 
 ## DONATE PAGE
-![alt-text](donate.png)
+![alt-text](img/donate.png)
 
 ### Societal concern
   Philippines has beem facing the problem of the youth's lack of education. There are different factors which are commonly financial reasons, emotional unreadiness and lack of resources. Lack of resources pertain to things need in the schools like educational supplies and books.
