@@ -80,25 +80,7 @@
 ### ERD (Entity Relationship Diagram)
 ![screen shot 2017-10-10 at 5 41 40 pm](https://user-images.githubusercontent.com/26729817/31424184-7a7df0d0-ae8b-11e7-9528-c544c27fb819.png)
 
-### Folder Structure
-
-```
-my-app/
-  README.md
-  node_modules/
-  package.json
-  public/
-    index.html
-    favicon.ico
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
-```
-## COLLABORATION TOOLS AND TECHNIQUES
+AND TECHNIQUES
 
 ### Slack
 ![screen shot 2017-10-12 at 8 19 30 am](https://user-images.githubusercontent.com/26729817/31473327-48cdb3cc-af26-11e7-9205-bc7f3bf4d76c.png)
@@ -108,14 +90,3 @@ my-app/
 ### Github
 ![screen shot 2017-10-12 at 7 49 05 pm](https://user-images.githubusercontent.com/26729817/31494582-79989066-af86-11e7-8c57-387dc84c9b3d.png)
 
-
-## WALKTHROUGH ON THE APP
-
-- Landing Page
-![screen shot 2017-10-13 at 9 29 28 am](https://user-images.githubusercontent.com/26729817/31526425-52035fa4-aff9-11e7-928e-d459ecab19fc.png)
-
-- List of Books Available
-![screen shot 2017-10-13 at 9 29 38 am](https://user-images.githubusercontent.com/26729817/31526446-6c3c17da-aff9-11e7-8b12-e6ae0895a923.png)
-
-- Book Donation Form
-![screen shot 2017-10-13 at 9 29 46 am](https://user-images.githubusercontent.com/26729817/31526485-b0d8ecc4-aff9-11e7-8a52-71fb7f01c7e4.png)
