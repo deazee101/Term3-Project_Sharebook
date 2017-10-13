@@ -32,7 +32,8 @@ textarea {
   width: 100%;
 }
 
-.homePage {
+.homePage h1{
+  font-size: 1.5em;
 }
 
 .aboutPage {
@@ -105,3 +106,17 @@ textarea {
 /*#root{
   background: #000;
 }*/
+
+.aboutPage {
+  padding: 3%;
+  background-color: white;
+  border-radius: 5%;
+  text-height: 1.5%;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Varela Round', sans-serif;
+}
+.aboutbook {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
