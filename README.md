@@ -20,8 +20,7 @@
 - [Plans](#plans)
      - [User Stories](#user-stories)
      - [Entity Relationship Diagram](#entity-relationship-diagram)
-     - [Wireframe](coming-soon)
-     - [Folder Structure](#folder-structure)
+     - [Wireframe](#wireframe)
 
 - [Collaboration Tools and Techniques](#collaboration-tools-and-techniques)
      - [Slack](#slack)
@@ -79,6 +78,9 @@
 
 ### ERD (Entity Relationship Diagram)
 ![screen shot 2017-10-10 at 5 41 40 pm](https://user-images.githubusercontent.com/26729817/31424184-7a7df0d0-ae8b-11e7-9528-c544c27fb819.png)
+
+
+### Wireframe 
 
 AND TECHNIQUES
 
